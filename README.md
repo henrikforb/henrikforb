@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+ I am Henrik, a MSc Computer Science student :mortar_board: at The Norwegian University of Science and Technology, campus Gloeshaugen :european_castle:, with specialization in Software Development :computer: 
+ 
+More to come ...
 
 <!--
 **henrikforb/henrikforb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
