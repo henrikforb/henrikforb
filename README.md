@@ -1,6 +1,6 @@
 # Hi there 👋
 
- I am Henrik, a MSc Computer Science student :mortar_board: at The Norwegian University of Science and Technology :european_castle:, with specialization in Software Development :computer: 
+ I am Henrik, a MSc Computer Science student :mortar_board: at the Norwegian University of Science and Technology :european_castle:, with specialization in Software Development :computer: 
  
 More to come ...
 
